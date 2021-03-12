@@ -2,8 +2,17 @@
 
 # Kubernetes Community Day - Spain 2021
 
-Planninginfo available at the [project board](https://github.com/orgs/kcd-es/projects/2) - this includes content planning issues!
-
-## What
+Planning info available at the [project board](https://github.com/orgs/kcd-es/projects/2).
 
 The Kubernetes Community Day, is a technical conference for developers and operations people. It is aimed at students, professionals or simply curious technophiles.
+
+## Communication
+
+- Slack: [CNCF/kcd-es](https://cloud-native.slack.com/archives/CUFASEGCU)
+- Telegram: [t.me/KCDes](https://t.me/KCDes)
+- Twitter: [@KCDSpain](https://twitter.com/kcdspain)
+
+## Meetings
+
+* Weekly Meeting on Wednesday at 17:00 GMT+1
+  * [Meeting notes and Agenda](https://docs.google.com/document/d/1vw8jJRmhfNREqYqjTeTHbICHObavTLbevuCMYGCjiCs/edit?usp=sharing).
