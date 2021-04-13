@@ -10,7 +10,7 @@ The Kubernetes Community Day, is a technical conference for developers and opera
 
 ## Channels
 
-- Slack: [CNCF/kcd-es](https://cloud-native.slack.com/archives/CUFASEGCU)
+- Slack: [CNCF/#kcd-spain](https://cloud-native.slack.com/archives/CUFASEGCU)
 - Telegram: [t.me/KCDes](https://t.me/KCDes)
 - Twitter: [@KCDSpain](https://twitter.com/kcdspain)
 
