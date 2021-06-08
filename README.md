@@ -1,5 +1,3 @@
-### *This event is still in the planning stages. Please check back here for updates!*
-
 # Kubernetes Community Day - Spain 2021
 
 Planning info available at the [project board](https://github.com/orgs/kcd-es/projects/2).
